@@ -1,0 +1,24 @@
+ID 0616750
+Summary - The feedback form is not opened after clicking the "Обратная связь" button
+Project - https://multiplex.ua/
+Reproducibility - Always
+Workaround - No
+Priority - Low
+Severity - Minor
+Status - Opened
+Author - Minienok Y
+Assigned To - Ivanov I.
+
+Description 
+The feedback form is not opened after clicking the "Обратная связь" button.
+Exp: The feedback form or contact information is dispayed on the site after clicking the "Обратная связь" button.
+Act: The feedback form is not opened after clicking the "Обратная связь" button.
+
+Steps to reproduce 
+1) go to the site https://multiplex.ua/;
+2) click on the drop-down menu in the upper left corner of te page
+3) click on the "О компании" button
+4) click on the "обратная связь" button
+5) pay attention to the page
+
+Additional information - no
